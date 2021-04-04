@@ -1,0 +1,4 @@
+nrosasco wheel domain users sr-mcs sr-remoteapp-bufkit sg-remoteapp-appserv1-users sd-acad-trv sd-cis sg-all_fac_stf sr-cis sr-remoteapp-ati-firefox
+mglass wheel domain users sd-mcs sr-mcs stem_share_dir sr-remoteapp-bufkit sg-remoteapp-appserv1-users sd-acad-trv sd-cis sd-mst sg-all_fac_stf sr-cis sd-cas-stem-ro sd-cas-curr_commit-ro sr-remoteapp-ati-firefox
+mrennick domain users sr-remoteapp-bufkit sg-remoteapp-appserv1-users sd-acad-trv sr-remoteapp-ati-firefox
+root

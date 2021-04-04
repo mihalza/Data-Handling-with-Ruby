@@ -1,0 +1,4 @@
+mrennick Mackenzie Rennick    pts/0    00:47  2014-12-09 13:51 r-whr-44-8a-5b-59-30-5c.valpo.edu
+mglass   Michael Glass        pts/1    18:18  2014-12-05 13:26 mglass.valpo.edu
+nrosasco Nick                 pts/2           2014-12-10 00:40 50-193-73-206-static.hfc.comcastbusiness.net
+root     root                 tty2     7d     2014-12-02 19:58
